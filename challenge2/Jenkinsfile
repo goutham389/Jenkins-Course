@@ -8,22 +8,22 @@ pipeline {
         }
         stage("Stage 2"){
             steps {
-                echo "This is stage 2"
+                echo "This is stage 2."
             }
         }
         stage("Stage 3"){
             steps {
-                echo "This is stage 3"
+                echo "This is stage 3."
             }
         }
         stage("Stage 4"){
             steps {
-                echo "This is stage 4"
+                echo "This is stage 4."
             }
         }
         stage("Stage 5"){
             steps {
-                echo "This is stage 5"
+                echo "This is stage 5."
             }
         }
     }
